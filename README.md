@@ -39,6 +39,7 @@ def gcd():
 ## Output:
 
 
+![image](https://user-images.githubusercontent.com/113497491/191740037-a89a6aab-2588-4a64-898c-8588d9dd7428.png)
 
 
 
